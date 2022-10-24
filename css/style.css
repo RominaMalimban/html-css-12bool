@@ -1,4 +1,6 @@
-
+.container{
+    margin-bottom: 23px;
+}
 [class*="col-"]{
     background-color: #006cfa;
     border: 1px solid #fff;
