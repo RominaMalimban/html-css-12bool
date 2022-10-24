@@ -1,0 +1,20 @@
+
+[class*="col-"]{
+    background-color: #006cfa;
+    border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+    line-height: 48px;
+    /* debug */
+    min-height: 48px;
+}
+
+.nested{
+    display: flex; 
+
+}
+
+.nested div{
+    background-color: #00e265;
+    
+}
