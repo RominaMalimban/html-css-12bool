@@ -11,10 +11,10 @@
 
 .nested{
     display: flex; 
-
+    padding: 10px;
 }
 
 .nested div{
     background-color: #00e265;
-    
+    margin-inline:1px;
 }
